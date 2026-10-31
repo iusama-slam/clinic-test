@@ -1,0 +1,5 @@
+id,patient,phone,location,time,status
+A1,Maria Lopez,+15550100,Northside,2026-11-01T09:00,booked
+A2,Daniel Reed,,Northside,2026-11-01T09:30,booked
+A3,Priya Shah,+15550102,Harbour,2026-11-01T10:00,cancelled
+A4,Tom Becker,+15550103,Westgate,2026-11-01T11:15,confirmed
